@@ -73,3 +73,35 @@ This project helped me understand real-time incident management process in Servi
 ![Screen 4](./incidentManagementPictures/Screenshot%202026-03-29%20230147.png)
 ![Screen 5](./incidentManagementPictures/Screenshot%202026-03-29%20230351.png)
 ![Screen 6](./incidentManagementPictures/Screenshot%202026-03-29%20230627.png)
+
+
+# 🚀 ServiceNow ITSM Projects
+
+This repository contains my ServiceNow project.
+
+---
+
+## 📂 Project
+
+### 🔹 Incident Management
+- Incident creation & tracking
+- Priority handling (High, Medium, Low)
+- Assignment & state management
+- Client Scripts & Business Rules
+
+👉 [View Project](./Incident-Management)
+
+---
+
+## 🛠️ Skills Gained
+
+- ServiceNow ITSM
+- Client Scripts
+- Business Rules
+- UI Policies
+
+---
+
+## 👨‍💻 Author
+
+Sreehari Reddy
