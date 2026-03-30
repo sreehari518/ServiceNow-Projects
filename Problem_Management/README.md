@@ -1,4 +1,3 @@
-
 ## Screenshots
 
 ![Screenshot](Problem_Management/problem_management/Screenshot%202026-03-30%20123500.png)
@@ -13,4 +12,4 @@
 
 ![Screenshot](Problem_Management/problem_management/Screenshot%202026-03-30%20131842.png)
 
-![Screenshot](Problem_Management/problem_management/Screenshot%202026-03-30%201319
+![Screenshot](Problem_Management/problem_management/Screenshot%202026-03-30%20131942.png)
