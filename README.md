@@ -1,49 +1,57 @@
-# ServiceNow-Projects
-ServiceNow ITSM Projects(Incident, Change, Problem, Service Catalog)
+# ServiceNow ITSM Projects
 
-## Incident Management
-- Created incidents for user issues like login errors
-- Categorized and prioritized incidents (Impact & Urgency)
-- Assigned incidents to support groups and users
-- Updated work notes and resolution notes
-- Followed lifecycle (New → In Progress → Resolved → Closed)
+This repository contains ServiceNow ITSM modules implementation including Incident, Change, Problem and Service Catalog.
 
 ---
 
-## Problem Management
-- Created problem from multiple related incidents
-- Linked incidents to problem record
-- Performed Root Cause Analysis (RCA)
-- Identified authentication service/cache issue
-- Added workaround to restore service temporarily
-- Implemented permanent fix
-- Followed lifecycle (Assess → RCA → Fix → Resolved → Closed)
+## 🔹 Incident Management
+- Created and managed incident records
+- Implemented Client Scripts (onLoad, onChange)
+- Developed Business Rules for automation
+- Used UI Policies for dynamic form behavior
+- Configured Notifications for updates
+- Improved incident resolution workflow
 
 ---
 
-## Change Management
-- Created Normal, Standard, and Emergency change requests
-- Defined risk, impact, and planning details
-- Implemented approval workflow (CAB approval)
-- Scheduled and executed changes
-- Followed lifecycle (New → Assess → Authorize → Implement → Review → Closed)
+## 🔹 Change Management
+- Created Change Requests (Normal, Standard, Emergency)
+- Implemented approval workflows
+- Managed risk and impact analysis
+- Automated change lifecycle using Business Rules
+- Configured notifications for approvals and status updates
 
 ---
 
-## Service Catalog
-- Created catalog items for user requests
-- Designed request forms with variables
-- Implemented workflows for approvals and tasks
-- Managed request fulfillment process
-- Handled request lifecycle (Requested → Approved → Fulfilled → Closed)
+## 🔹 Problem Management
+- Created and tracked problem records
+- Identified root cause analysis
+- Linked incidents to problems
+- Implemented Known Error Database (KEDB)
+- Prevented recurring incidents
 
 ---
 
-## Tools Used
-- ServiceNow Developer Instance
-- ITSM Modules
+## 🔹 Service Catalog
+- Created catalog items
+- Designed record producers
+- Implemented workflows for request fulfillment
+- Used variables and UI policies
+- Automated service request process
 
 ---
 
-## Outcome
-Resolved recurring incidents by identifying and fixing the root cause and implemented structured ITSM processes.
+## 🔧 Technologies Used
+- ServiceNow Platform
+- Client Scripts
+- Business Rules
+- UI Policies
+- Notifications
+- Workflows
+
+---
+
+## 📌 Outcome
+- Automated ITSM processes
+- Improved efficiency and response time
+- Hands-on experience with real-time ServiceNow scenarios
