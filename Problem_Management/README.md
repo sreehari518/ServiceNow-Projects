@@ -1,38 +1,39 @@
-# 🚀 Change Management Project
+# 🚀 Problem Management Project
 
 ## 📌 Description
-This project demonstrates how changes are planned, approved, and implemented in ServiceNow.
+This project demonstrates how recurring incidents are analyzed and resolved using Problem Management in ServiceNow.
 
 ---
 
 ## 🎯 Use Case
-Changes are raised to modify systems safely with proper approvals to avoid risks and failures.
+When multiple incidents occur repeatedly, a problem is created to identify the root cause and provide a permanent fix.
 
 ---
 
 ## ⚙️ Features
-- Change request creation
-- Change types (Normal, Standard, Emergency)
-- Approval workflow
-- Risk and impact analysis
-- Change lifecycle (New → Assess → Authorize → Implement → Review → Closed)
+- Problem record creation
+- Linking incidents to problem
+- Root Cause Analysis (RCA)
+- Workaround and permanent fix
+- Problem lifecycle (New → Assess → Root Cause Analysis → Fix in Progress → Resolved → Closed)
 
 ---
 
 ## 🔄 Process Flow
-1. Create Change Request
-2. Assess Risk & Impact
-3. Get Approval from Manager
-4. Implement Change
-5. Review and Close Change
+1. Identify repeated incidents
+2. Create Problem record
+3. Perform Root Cause Analysis
+4. Provide workaround
+5. Implement permanent fix
+6. Resolve and close problem
 
 ---
 
 ## 🧠 Applied Concepts
-- Change Management lifecycle
-- Approval workflows
-- Risk assessment
-- Scheduling changes
+- Incident to Problem linking
+- Root Cause Analysis (RCA)
+- Workaround creation
+- Problem lifecycle management
 
 ---
 
@@ -42,17 +43,14 @@ Screenshots are available in the screenshots folder.
 ---
 
 ## 💡 Learning Outcome
-- Learned Change lifecycle
-- Understood approval process
+- Learned Problem Management lifecycle
+- Understood RCA process
 - Gained hands-on experience in ServiceNow
 
 ---
 
 ## 🏁 Conclusion
-This project helped me understand how structured changes are implemented in real-time IT environments.
-
-
-
+This project helped me understand how to identify root causes and prevent recurring issues in real-time IT environments.
 
 ## Screenshots
 
