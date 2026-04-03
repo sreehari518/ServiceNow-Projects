@@ -35,3 +35,12 @@ This project automates the laptop request process using ServiceNow Flow Designer
 👨‍💻 Author
 
 Sreehari
+
+## 📸 Screenshots
+
+![Screenshot1](serviceCatalog/Screenshot%202026-04-03%20173252.png)
+![Screenshot2](serviceCatalog/Screenshot%202026-04-03%20173320.png)
+![Screenshot3](serviceCatalog/Screenshot%202026-04-03%20173345.png)
+![Screenshot4](serviceCatalog/Screenshot%202026-04-03%20173410.png)
+![Screenshot5](serviceCatalog/Screenshot%202026-04-03%20173500.png)
+![Screenshot6](serviceCatalog/Screenshot%202026-04-03%20173630.png)
