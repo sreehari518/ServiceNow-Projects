@@ -54,3 +54,15 @@ Sreehari
 ![Screenshot4](serviceCatalog/Screenshot%202026-04-03%20173410.png)
 ![Screenshot5](serviceCatalog/Screenshot%202026-04-03%20173544.png)
 ![Screenshot6](serviceCatalog/Screenshot%202026-04-03%20173615.png)
+
+
+## 📸 Screenshots
+
+![1](serviceCatalog/PASTE-HERE.png)
+![2](serviceCatalog/PASTE-HERE.png)
+![3](serviceCatalog/PASTE-HERE.png)
+![4](serviceCatalog/PASTE-HERE.png)
+![5](serviceCatalog/PASTE-HERE.png)
+![6](serviceCatalog/PASTE-HERE.png)
+
+
